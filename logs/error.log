@@ -1,0 +1,1 @@
+[Sat Jun 22 21:40:20.781331 2019] [php7:error] [pid 18768:tid 1264] [client 127.0.0.1:61157] PHP Fatal error:  Default value for parameters with a integer type can only be integer or NULL in D:\\amp\\apache\\htdocs\\laravel\\laravel2\\app\\Http\\Controllers\\Admin\\UserController.php on line 31
